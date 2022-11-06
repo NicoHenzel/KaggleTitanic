@@ -1,5 +1,4 @@
 # KaggleTitanic
-Repo for the kaggle titanic competition
 
 See:
 https://www.kaggle.com/competitions/titanic
